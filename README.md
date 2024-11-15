@@ -16,9 +16,9 @@
 [A Rapid Intro to Quantitative Vegetation Ecology](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
 
 ## Some Talks
-[Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)
-[My Masters Defence](https://github.com/sagesteppe/thesis_talk)
-[Species Distribution Models; an Introduction](https://github.com/sagesteppe/Analytical_Toolkit_SDM)
+[Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)  
+[My Masters Defence](https://github.com/sagesteppe/thesis_talk)  
+[Species Distribution Models; an Introduction](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 
 ## Some Pollination related Plant Morphology Projects
 [Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
