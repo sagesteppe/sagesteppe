@@ -13,7 +13,7 @@
 
 ## Some Teaching Materials
 [Using QGIS](https://github.com/sagesteppe/QGIS_Lesson)  
-
+[A Rapid Intro to Quantitative Vegetation Ecology](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
 
 <!--
 **sagesteppe/sagesteppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
