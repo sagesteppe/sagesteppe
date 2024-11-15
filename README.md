@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Some R Packages I've made
+[BarnebyLives](https://sagesteppe.github.io/BarnebyLives/)
+[safeHavens](https://sagesteppe.github.io/safeHavens/)
+[eSTZwritR](https://github.com/sagesteppe/eSTZwritR)
+[AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex)
+
 <!--
 **sagesteppe/sagesteppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
