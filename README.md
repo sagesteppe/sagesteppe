@@ -8,6 +8,7 @@
 
 ## Some Species Distribution Modelling things
 [Using SDMs to find plant populations for native seed collection](https://github.com/sagesteppe/SDM_restorations)  
+[Using SDMs to improve metagenomics results](https://github.com/sagesteppe/SDMS_RMBL)  
 
 ## Some Teaching Materials
 [Using QGIS](https://github.com/sagesteppe/QGIS_Lesson)  
