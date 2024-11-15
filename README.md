@@ -17,6 +17,12 @@
 
 ## Some Talks
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)
+[My Masters Defence](https://github.com/sagesteppe/thesis_talk)
+[Species Distribution Models; an Introduction](https://github.com/sagesteppe/Analytical_Toolkit_SDM)
+
+## Some Pollination related Plant Morphology Projects
+[Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
+
 <!--
 **sagesteppe/sagesteppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
