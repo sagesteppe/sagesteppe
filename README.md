@@ -24,6 +24,7 @@
 [Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
 
 ## Assess, Inventory, and Monitor report
+[Assessment of Current Upland Vegetation Conditions in the Uncompahgre Field Office, Gunnison Gorge, and Dominguez-Escalante National Conservation Areas](https://www.britishecologicalsociety.org/applied-ecology-resources/document/20240022706/)
 [Main repo and report generation](https://github.com/sagesteppe/UFO_AIM_Panel1_Final_Report)
 
 <!--
