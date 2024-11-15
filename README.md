@@ -15,6 +15,8 @@
 [Using QGIS](https://github.com/sagesteppe/QGIS_Lesson)  
 [A Rapid Intro to Quantitative Vegetation Ecology](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
 
+## Some Talks
+[Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)
 <!--
 **sagesteppe/sagesteppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
