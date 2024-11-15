@@ -5,6 +5,7 @@
 [safeHavens](https://sagesteppe.github.io/safeHavens/)  
 [eSTZwritR](https://github.com/sagesteppe/eSTZwritR)  
 [AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex)  
+[getGridmet](https://github.com/sagesteppe/getGridmet)  
 
 ## Some Species Distribution Modelling things
 [Using SDMs to find plant populations for native seed collection](https://github.com/sagesteppe/SDM_restorations)  
