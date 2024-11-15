@@ -1,10 +1,17 @@
 ## Hi there 👋
 
 ## Some R Packages I've made
-[BarnebyLives](https://sagesteppe.github.io/BarnebyLives/)
-[safeHavens](https://sagesteppe.github.io/safeHavens/)
-[eSTZwritR](https://github.com/sagesteppe/eSTZwritR)
-[AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex)
+[BarnebyLives](https://sagesteppe.github.io/BarnebyLives/)  
+[safeHavens](https://sagesteppe.github.io/safeHavens/)  
+[eSTZwritR](https://github.com/sagesteppe/eSTZwritR)  
+[AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex)  
+
+## Some Species Distribution Modelling things
+[Using SDMs to find plant populations for native seed collection](https://github.com/sagesteppe/SDM_restorations)  
+
+## Some Teaching Materials
+[Using QGIS](https://github.com/sagesteppe/QGIS_Lesson)  
+
 
 <!--
 **sagesteppe/sagesteppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
