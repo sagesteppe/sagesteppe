@@ -17,7 +17,9 @@
 
 ## Some Talks
 [Modelling Natural History to Increase Native Seed Collection Efficiency; Space, Time, and Connectivity](https://sagesteppe.github.io/Modelling-Natural-History-to-Increase-Native-Seed-Collection-Efficiency/)  
-[A Spatial Data Specialist for SOS?](https://sagesteppe.github.io/Spatial-Data-Specialist-SOS-National-Team/)  
+[A Spatial Data Specialist for SOS?](https://sagesteppe.github.io/Spatial-Data-Specialist-SOS-National-Team/)   
+
+## Some Lectures  
 [A very quick introduction to vegetation assessments](https://sagesteppe.github.io/CLM_2024_Veg_Ecology/)  
 [Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)  
