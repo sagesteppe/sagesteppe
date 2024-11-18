@@ -11,10 +11,6 @@
 [Using SDMs to find plant populations for native seed collection](https://github.com/sagesteppe/SDM_restorations)  
 [Using SDMs to improve metagenomics results](https://github.com/sagesteppe/SDMS_RMBL)  
 
-## Some Teaching Materials
-[Using QGIS](https://github.com/sagesteppe/QGIS_Lesson)  
-[A Rapid Intro to Quantitative Vegetation Ecology](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
-
 ## Some Talks
 [Modelling Natural History to Increase Native Seed Collection Efficiency; Space, Time, and Connectivity](https://sagesteppe.github.io/Modelling-Natural-History-to-Increase-Native-Seed-Collection-Efficiency/)  
 [A Spatial Data Specialist for SOS?](https://sagesteppe.github.io/Spatial-Data-Specialist-SOS-National-Team/)   
@@ -25,6 +21,9 @@
 [Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
 [Species Distribution Models; an Introduction](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
+
+## Some Teaching Materials
+[Using QGIS](https://github.com/sagesteppe/QGIS_Lesson) 
 
 ## Some Pollination related Plant Morphology Projects
 [Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
