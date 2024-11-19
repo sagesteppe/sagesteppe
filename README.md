@@ -17,10 +17,10 @@
 [My Masters Defense](https://github.com/sagesteppe/thesis_talk)   
 
 ## Some Lectures  
-[A very quick introduction to vegetation assessments](https://sagesteppe.github.io/CLM_2024_Veg_Ecology/) [repo](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
+[A very quick introduction to vegetation assessments](https://sagesteppe.github.io/CLM_2024_Veg_Ecology/) &  [repo](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
 [Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)  
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
-[Species Distribution Models; an Introduction]([https://github.com/sagesteppe/Analytical_Toolkit_SDM](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
+[Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 [What's a Model and How do we Plan Hitches?](https://sagesteppe.github.io/Whats-a-model-and-how-do-we-plan-hitches/) [repo](https://github.com/sagesteppe/Whats-a-model-and-how-do-we-plan-hitches)  
 [What is Graduate School and how do you apply?](https://sagesteppe.github.io/What-is-Graduate-School-and-how-do-you-apply/)
 
