@@ -22,6 +22,7 @@
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
 [Species Distribution Models; an Introduction](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 [What's a Model and How do we Plan Hitches?](https://sagesteppe.github.io/Whats-a-model-and-how-do-we-plan-hitches/)  
+[What is Graduate School and how do you apply?](https://sagesteppe.github.io/What-is-Graduate-School-and-how-do-you-apply/)
 
 ## Some Teaching Materials
 [Using QGIS](https://github.com/sagesteppe/QGIS_Lesson) 
