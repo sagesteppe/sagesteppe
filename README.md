@@ -21,7 +21,7 @@
 [Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)  
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
 [Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
-[What's a Model and How do we Plan Hitches?](https://sagesteppe.github.io/Whats-a-model-and-how-do-we-plan-hitches/) [repo](https://github.com/sagesteppe/Whats-a-model-and-how-do-we-plan-hitches)  
+[What's a Model and How do we Plan Hitches?](https://sagesteppe.github.io/Whats-a-model-and-how-do-we-plan-hitches/) & [repo](https://github.com/sagesteppe/Whats-a-model-and-how-do-we-plan-hitches)  
 [What is Graduate School and how do you apply?](https://sagesteppe.github.io/What-is-Graduate-School-and-how-do-you-apply/)
 
 ## Some Teaching Materials
