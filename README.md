@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Some R Packages I've made
+## Some R Packages I've developed
 [BarnebyLives](https://sagesteppe.github.io/BarnebyLives/)  
 [safeHavens](https://sagesteppe.github.io/safeHavens/)  
 [eSTZwritR](https://github.com/sagesteppe/eSTZwritR)  
