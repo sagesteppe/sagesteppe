@@ -30,7 +30,7 @@ And that's what we have three examples of here.
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
 [Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 
-### Post-bac / Post-grad training
+### Post-bac / Post-grad industry training
 [A very quick introduction to vegetation assessments](https://sagesteppe.github.io/CLM_2024_Veg_Ecology/) &  [repo](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
 [Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)  
 [What's a Model and How do we Plan Hitches?](https://sagesteppe.github.io/Whats-a-model-and-how-do-we-plan-hitches/) & [repo](https://github.com/sagesteppe/Whats-a-model-and-how-do-we-plan-hitches)  
