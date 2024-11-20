@@ -26,7 +26,7 @@ And that's what we have three examples of here.
 
 ## Some Lectures  
 
-### University Level
+### University Level (Upper Divison/Graduate)
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
 [Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 
