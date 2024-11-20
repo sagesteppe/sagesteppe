@@ -17,6 +17,9 @@ If I'm not doing that, then I'm probably making a package for or with a friend!
 [Using SDMs to improve metagenomics results](https://github.com/sagesteppe/SDMS_RMBL)  
 
 ## Some Talks
+I turn down a lot of talk invitations, but sometimes a very important person tells me I have to do one! 
+And that's what we have three examples of here. 
+
 [Modelling Natural History to Increase Native Seed Collection Efficiency; Space, Time, and Connectivity](https://sagesteppe.github.io/Modelling-Natural-History-to-Increase-Native-Seed-Collection-Efficiency/)  
 [A Spatial Data Specialist for SOS?](https://sagesteppe.github.io/Spatial-Data-Specialist-SOS-National-Team/)   
 [My Masters Defense](https://github.com/sagesteppe/thesis_talk)   
