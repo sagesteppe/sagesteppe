@@ -25,12 +25,13 @@ And that's what we have three examples of here.
 [My Masters Defense](https://github.com/sagesteppe/thesis_talk)   
 
 ## Some Lectures  
+
+### University Level (Upper Divison/Graduate)
 I love teaching, as a graduate student I had the priviledge of being a teaching assistant at Northwestern University's "R for Data Science" course for two quarters. 
 This course was based on Hadley's excellent book of the same name and was hosted by the Programs in Earth and Planetary Science, Environmental Science, Plant Biology & Conservation. 
 In my second year I taught a full week of the course focused on Spatial Data Science ;-)! 
 I was also invited to do a guest lecture for the Plant Biolgy & Conservations course "Anaytical Toolbox for Ecologists and Evolutionary Biologists".  
 
-### University Level (Upper Divison/Graduate)
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
 [Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 
