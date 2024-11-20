@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 ## Some R Packages I've developed
+Most of my package development work relates to natural history museum collections, and germplasm repository work - especially seed banking. 
+Essentially, I am always interested in decreasing the human workloads, while increasing the scientific merit of collections. 
+All of this work relates heavily around spatial data science workflows. 
+If I'm not doing that, then I'm probably making a package for or with a friend!  
+
 [BarnebyLives](https://sagesteppe.github.io/BarnebyLives/) &[Repo](https://github.com/sagesteppe/BarnebyLives)  
 [safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens)  
 [eSTZwritR](https://github.com/sagesteppe/eSTZwritR) & [Repo](https://github.com/sagesteppe/eSTZwritR)  
