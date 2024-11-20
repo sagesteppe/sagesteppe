@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## Some R Packages I've developed
-[BarnebyLives](https://sagesteppe.github.io/BarnebyLives/)  
-[safeHavens](https://sagesteppe.github.io/safeHavens/)  
-[eSTZwritR](https://github.com/sagesteppe/eSTZwritR)  
+[BarnebyLives](https://sagesteppe.github.io/BarnebyLives/) &[Repo](https://github.com/sagesteppe/BarnebyLives)  
+[safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens)  
+[eSTZwritR](https://github.com/sagesteppe/eSTZwritR) & [Repo](https://github.com/sagesteppe/eSTZwritR)  
 [AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex)  
 [getGridmet](https://github.com/sagesteppe/getGridmet)  
 
