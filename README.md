@@ -36,6 +36,7 @@ I was also invited to do a guest lecture for the Plant Biolgy & Conservations co
 [Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 
 ### Professional  
+My professional teaching style can be described as a "firehose of flowers", i.e. a ton of *exposure* to complex information required to make quick decisions with. It is targeted for recent B.S., M.S. and Ph.D graduates, essentially people with a good head on their shoulders, but who have likely not been exposed to too much pragmatic decision making and troubleshooting. Essentially I try to provide them with a framework for categorizing their observations, and hopefully get them excited enough about the topics they take on the responsibility to further educate themselves on the topics. 
 [A very quick introduction to vegetation assessments](https://sagesteppe.github.io/CLM_2024_Veg_Ecology/) &  [repo](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
 [Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)  & [repo](https://github.com/sagesteppe/Geomorphology-Lecture)  
 [What's a Model and How do we Plan Hitches?](https://sagesteppe.github.io/Whats-a-model-and-how-do-we-plan-hitches/) & [repo](https://github.com/sagesteppe/Whats-a-model-and-how-do-we-plan-hitches)  
