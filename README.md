@@ -37,7 +37,7 @@ I was also invited to do a guest lecture for the Plant Biolgy & Conservations co
 
 ### Professional  
 [A very quick introduction to vegetation assessments](https://sagesteppe.github.io/CLM_2024_Veg_Ecology/) &  [repo](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
-[Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)  
+[Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)  & [repo](https://github.com/sagesteppe/Geomorphology-Lecture)
 [What's a Model and How do we Plan Hitches?](https://sagesteppe.github.io/Whats-a-model-and-how-do-we-plan-hitches/) & [repo](https://github.com/sagesteppe/Whats-a-model-and-how-do-we-plan-hitches)  
 [What is Graduate School and how do you apply?](https://sagesteppe.github.io/What-is-Graduate-School-and-how-do-you-apply/)
 
