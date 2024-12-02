@@ -49,6 +49,7 @@ My professional teaching style can be described as a "firehose of flowers", i.e.
 [Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
 
 ## Assess, Inventory, and Monitor report
+The Bureau of Land Management provides stewardship for the most public lands in the United States of any agency, roughly 1 in 8 acres of the US are managed by them. In the early 2010's they launched an initiative across all of this land to assess the current ecological integrity, inventory the plant life, which can provide a baseline for future monitoring efforts. Although several field offices have finished their first five-year sample design, few have written reports on their findings, and none as comphrehensively as we did at the UFO ;-) (Uncompahgre Field Office). This 99 page report details the triumphs and tribulations in trying to assess a roughly 900,000 acre area under the multiple use mandate. 
 [Assessment of Current Upland Vegetation Conditions in the Uncompahgre Field Office, Gunnison Gorge, and Dominguez-Escalante National Conservation Areas](https://www.britishecologicalsociety.org/applied-ecology-resources/document/20240022706/)  & [Umbrella Repo!](https://github.com/sagesteppe/UFO_AIM_Panel1_Final_Report)
 
 <!--
