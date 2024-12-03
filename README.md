@@ -33,6 +33,7 @@ In my second year I taught a full week of the course focused on Spatial Data Sci
 I was also invited to do a guest lecture for the Plant Biolgy & Conservations course "Anaytical Toolbox for Ecologists and Evolutionary Biologists".  
 
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
+  - Object-Oriented Programming (OOP) take home lab activity  
 [Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 
 ### Professional  
