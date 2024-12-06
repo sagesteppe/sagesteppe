@@ -10,7 +10,7 @@ If I'm not doing that, then I'm probably making a package for or with a friend!
 [safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens)  
 [eSTZwritR](https://github.com/sagesteppe/eSTZwritR) & [Repo](https://github.com/sagesteppe/eSTZwritR) *A simple package for documenting and sharing empirical Seed Transfer Zones (STZs)*   
 [AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex) *Calculate Augspurgers Index of Synchrony*   
-[getGridmet](https://github.com/sagesteppe/getGridmet)  
+[getGridmet](https://github.com/sagesteppe/getGridmet) *download gridmet data to a computer near you*  
 
 ## Some Species Distribution Modelling things
 [Using SDMs to find plant populations for native seed collection](https://github.com/sagesteppe/SDM_restorations)  
