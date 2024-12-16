@@ -8,7 +8,7 @@ If I'm not doing that, then I'm probably making a package for or with a friend!
 
 [BarnebyLives](https://sagesteppe.github.io/BarnebyLives/) &[Repo](https://github.com/sagesteppe/BarnebyLives) *Tools for collecting digital data for herbarium specimens.*  
 [safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens)  
-[eSTZwritR](https://github.com/sagesteppe/eSTZwritR) & [Repo](https://github.com/sagesteppe/eSTZwritR) *A simple package for documenting and sharing empirical Seed Transfer Zones (STZs)*   
+[eSTZwritR](https://sagesteppe.github.io/eSTZwritR/) & [Repo](https://github.com/sagesteppe/eSTZwritR) *A simple package for documenting and sharing empirical Seed Transfer Zones (STZs)*   
 [AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex) *Calculate Augspurgers Index of Synchrony*   
 [getGridmet](https://github.com/sagesteppe/getGridmet) *download gridmet data to a computer near you*  
 
