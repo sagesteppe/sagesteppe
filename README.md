@@ -35,7 +35,7 @@ I was also invited to do a guest lecture for the Plant Biolgy & Conservations co
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
   - [Day I](https://sagesteppe.github.io/SpatialDataScienceI/)
   - [Day II](https://sagesteppe.github.io/SpatialDatasScienceII/)   
-  - [Object-Oriented Programming (OOP)](https://sagesteppe.github.io/Object-OrientedProgramming/Object-OrientedProgramming.html#/title-slide)  take home lab activity
+  - [Object-Oriented Programming (OOP)](https://sagesteppe.github.io/Object-OrientedProgramming/)  take home lab activity
 
 [Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 
