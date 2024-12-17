@@ -48,14 +48,15 @@ My professional teaching style can be described as a "firehose of flowers", i.e.
 [What is Graduate School and how do you apply?](https://sagesteppe.github.io/What-is-Graduate-School-and-how-do-you-apply/)
 
 ## Some Teaching Materials
+This is a click along/set up tutorial for previous fieldworker crews I've had. It gives them some basic backgrounds on what a geographic information system (GIS) is, and helps them set up their work projects. It was my first time going to online, non-lecture based instruction. 
 [Using QGIS](https://github.com/sagesteppe/QGIS_Lesson) 
-
-## Some Pollination related Plant Morphology Projects
-[Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
 
 ## Assess, Inventory, and Monitor report
 The Bureau of Land Management provides stewardship for the most public lands in the United States of any agency, roughly 1 in 8 acres of the US are managed by them. In the early 2010's they launched an initiative across all of this land to assess the current ecological integrity, inventory the plant life, which can provide a baseline for future monitoring efforts. Although several field offices have finished their first five-year sample design, few have written reports on their findings, and none as comphrehensively as we did at the UFO ;-) (Uncompahgre Field Office). This 99 page report details our findings in the context of the multiple use mandate, a management paradigm under which all public land uses must be catered to.  
 [Assessment of Current Upland Vegetation Conditions in the Uncompahgre Field Office, Gunnison Gorge, and Dominguez-Escalante National Conservation Areas](https://www.britishecologicalsociety.org/applied-ecology-resources/document/20240022706/)  & [Umbrella Repo!](https://github.com/sagesteppe/UFO_AIM_Panel1_Final_Report)
+
+## Some Pollination related Plant Morphology Projects
+[Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
 
 <!--
 **sagesteppe/sagesteppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
