@@ -48,7 +48,7 @@ My professional teaching style can be described as a "firehose of flowers", i.e.
 [What is Graduate School and how do you apply?](https://sagesteppe.github.io/What-is-Graduate-School-and-how-do-you-apply/)
 
 ## Some Teaching Materials
-This is a click along/set up tutorial for previous fieldworker crews I've had. It gives them some basic backgrounds on what a geographic information system (GIS) is, and helps them set up their work projects. It was my first time going to online, non-lecture based instruction. 
+This is a click along/set up tutorial for previous fieldworker crews I've had. It gives them some basic backgrounds on what a geographic information system (GIS) is, and helps them set up their work projects. It was my first time going to online, non-lecture based instruction.  
 [Using QGIS](https://github.com/sagesteppe/QGIS_Lesson) 
 
 ## Assess, Inventory, and Monitor report
