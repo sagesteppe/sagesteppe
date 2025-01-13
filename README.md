@@ -4,7 +4,7 @@
 Most of my package development work relates to natural history museum collections, and germplasm repository work - especially seed banking. 
 Essentially, I am always interested in decreasing the human workloads, while increasing the scientific merit of collections. 
 All of this work relates heavily around spatial data science workflows. 
-If I'm not doing that, then I'm probably making a package for or with a friend!  
+If I'm not doing that, then I'm probably making a package for, or with, a friend!  
 
 [BarnebyLives](https://sagesteppe.github.io/BarnebyLives/) & [Repo](https://github.com/sagesteppe/BarnebyLives) *Tools for collecting digital data for herbarium specimens.*  
 [safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens) *Tools to help germplasm curators to prioritize areas for new accessions.*  
