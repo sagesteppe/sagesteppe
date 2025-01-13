@@ -1,4 +1,4 @@
-## Hi there 👋
+## oh hey! 👋
 
 ## Some R Packages I've developed
 Most of my package development work relates to natural history museum collections, and germplasm repository work - especially seed banking. 
