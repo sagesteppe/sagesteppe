@@ -6,7 +6,7 @@ Essentially, I am always interested in decreasing the human workloads, while inc
 All of this work relates heavily around spatial data science workflows. 
 If I'm not doing that, then I'm probably making a package for or with a friend!  
 
-[BarnebyLives](https://sagesteppe.github.io/BarnebyLives/) &[Repo](https://github.com/sagesteppe/BarnebyLives) *Tools for collecting digital data for herbarium specimens.*  
+[BarnebyLives](https://sagesteppe.github.io/BarnebyLives/) & [Repo](https://github.com/sagesteppe/BarnebyLives) *Tools for collecting digital data for herbarium specimens.*  
 [safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens) *Tools to help germplasm curators to prioritize areas for new accessions.*  
 [eSTZwritR](https://sagesteppe.github.io/eSTZwritR/) & [Repo](https://github.com/sagesteppe/eSTZwritR) *A simple package for documenting and sharing empirical Seed Transfer Zones (STZs)*   
 [AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex) *Calculate Augspurgers Index of Synchrony*   
