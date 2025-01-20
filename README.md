@@ -13,7 +13,7 @@ If I'm not doing that, then I'm probably making a package for, or with, a friend
 [getGridmet](https://github.com/sagesteppe/getGridmet) *download gridmet data to a computer near you*  
 
 ## My Data Visualization Gallery 
-[](https://sagesteppe.github.io/DataVizGallery/) & [Repo](https://github.com/sagesteppe/DataVizGallery) *Blah! Thrown together over the weekend of Jan 20 2025! A work in progress. On the other hand I'm pretty proud of the Jekyll build - check the repo for the source code!* 
+[Data Visualization Gallery](https://sagesteppe.github.io/DataVizGallery/) & [Repo](https://github.com/sagesteppe/DataVizGallery) *Blah! Thrown together over the weekend of Jan 20 2025! A work in progress. On the other hand I'm pretty proud of the Jekyll build - check the repo for the source code!* 
 
 ## Assess, Inventory, and Monitor report
 The Bureau of Land Management provides stewardship for the most public lands in the United States of any agency, roughly 1 in 10 acres of the US are managed by them. In the early 2010's they launched an initiative across all of this land to assess the current ecological integrity, and inventory the plant life - which provides a baseline for future monitoring efforts. Although several field offices have finished their first five-year sample design, few have written reports on their findings, and none as comphrehensively as we did at the UFO ;-) (Uncompahgre Field Office). This 99 page report details our findings in the context of the multiple use mandate, a management paradigm under which all public land uses must be catered to.  
