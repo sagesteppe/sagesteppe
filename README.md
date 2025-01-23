@@ -34,7 +34,8 @@ And that's what we have three examples of here.
 I love teaching, as a graduate student I had the privilege of being a teaching assistant T Northwestern University's "R for Data Science" course for two quarters. 
 This course was based on Hadley's excellent book of the same name and was hosted by the Programs in Earth and Planetary Science, Environmental Science, and Plant Biology & Conservation. 
 In my second year I taught a full week of the course focused on Spatial Data Science ;-)! 
-I was also invited to do a guest lecture for the Plant Biolgy & Conservations course "Anaytical Toolbox for Ecologists and Evolutionary Biologists" on SDS as well.  
+I was also invited to do a guest lecture for the Plant Biolgy & Conservations course "Anaytical Toolbox for Ecologists and Evolutionary Biologists" on SDS as well. 
+Both of these courses were graduate/upper division level courses.
 
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
   - [Day I](https://sagesteppe.github.io/SpatialDataScienceI/)
