@@ -56,8 +56,13 @@ This is a click along/set up tutorial for previous fieldworker crews I've had. I
 [Using QGIS](https://github.com/sagesteppe/QGIS_Lesson) 
 
 ## Some Species Distribution Modelling things
+The first repo is a bit of a mess, well the right up is. 
+I've been hoping to formulate that for submission to a journal, but it's hard to reach that far back on the stove. 
+Second repo was me learning to code, blah!, but the actual work is fantastic. 
+Third repo is straight fire, ignore the readme and jump to the functions.  
 [Using SDMs to find plant populations for native seed collection](https://github.com/sagesteppe/SDM_restorations)  
 [Using SDMs to improve metagenomics results](https://github.com/sagesteppe/SDMS_RMBL)  
+[Eriogonum coloradense](https://github.com/sagesteppe/Ecoloradense)
 
 ## Some Pollination related Plant Morphology Projects
 [Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
