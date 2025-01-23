@@ -65,6 +65,7 @@ Third repo is straight fire, ignore the readme and jump to the functions.
 [Eriogonum coloradense](https://github.com/sagesteppe/Ecoloradense)
 
 ## Some Pollination related Plant Morphology Projects
+I have a weird sense of pride in this EDA, the ground truth was just so simple, and this was done so quick in general. I've been trying to pawn it off on an undergrad but they never bit, I guess this is a last ditch effort?
 [Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
 
 <!--
