@@ -10,7 +10,7 @@ If I'm not doing that, then I'm probably making a package for, or with, a friend
 [safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens) *Tools to help germplasm curators prioritize areas for new accessions.*  
 [eSTZwritR](https://sagesteppe.github.io/eSTZwritR/) & [Repo](https://github.com/sagesteppe/eSTZwritR) *For sharing empirical Seed Transfer Zones (STZs) spatial data products.*   
 [AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex) *Calculate Augspurgers Index of Synchrony*   
-[getGridmet](https://github.com/sagesteppe/getGridmet) *download gridmet data to a computer near you*  
+[getGridmet](https://github.com/sagesteppe/getGridmet) *Download gridmet data to a computer near you*  
 
 ## My Data Visualization Gallery 
 [Data Visualization Gallery](https://sagesteppe.github.io/DataVizGallery/) & [Repo](https://github.com/sagesteppe/DataVizGallery) *Blah! Thrown together over the weekend of Jan 20 2025! A work in progress - check back often ;-)!* 
