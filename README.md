@@ -9,7 +9,7 @@ If I'm not doing that, then I'm probably making a package for, or with, a friend
 [BarnebyLives](https://sagesteppe.github.io/BarnebyLives/) & [Repo](https://github.com/sagesteppe/BarnebyLives) *Tools for collecting digital data for herbarium specimens.*  
 [safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens) *Tools to help germplasm curators prioritize areas for new accessions.*  
 [eSTZwritR](https://sagesteppe.github.io/eSTZwritR/) & [Repo](https://github.com/sagesteppe/eSTZwritR) *('Easy Rider') For sharing empirical Seed Transfer Zones (STZs) spatial data products.*   
-[flyer](https://github.com/sagesteppe/flyer) *Data package for cartography exercises. From Ricketts and Steinbecks 1940 trip to the Sea of Cortez*. 
+[flyer](https://github.com/sagesteppe/flyer) *Data package for cartography exercises. From Ricketts and Steinbecks 1940 trip to the Sea of Cortez*.  
 [AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex) *Calculate Augspurgers Index of Synchrony*   
 [getGridmet](https://github.com/sagesteppe/getGridmet) *Download gridmet data to a computer near you*  
 
