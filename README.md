@@ -65,10 +65,6 @@ Third repo is straight fire, ignore the readme and jump to the functions.
 [Using SDMs to improve metagenomics results](https://github.com/sagesteppe/SDMS_RMBL)  
 [Eriogonum coloradense](https://github.com/sagesteppe/Ecoloradense)
 
-## Some Pollination related Plant Morphology Projects
-I have a weird sense of pride in this EDA, the ground truth was just so simple, and this was done so quick in general. I've been trying to pawn it off on an undergrad but they never bite, I guess this is a last ditch effort?
-[Identifying Leaves from Nest Cells](https://github.com/sagesteppe/Nest-Cells-Leaves-ID)
-
 <!--
 **sagesteppe/sagesteppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
