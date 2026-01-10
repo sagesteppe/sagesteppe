@@ -1,8 +1,6 @@
-## oh hey! 👋
-
 ## Some R Packages I've developed
 Most of my package development work relates to natural history museum collections, and germplasm repository work - especially seed banking. 
-Essentially, I am always interested in decreasing the human workloads, while increasing the scientific merit of collections. 
+Essentially, I am always interested in decreasing the human workloads while increasing the scientific merit of collections. 
 All of this work relates heavily around spatial data science workflows. 
 If I'm not doing that, then I'm probably making a package for, or with, a friend!  
 
@@ -17,7 +15,7 @@ If I'm not doing that, then I'm probably making a package for, or with, a friend
 [Data Visualization Gallery](https://sagesteppe.github.io/DataVizGallery/) & [Repo](https://github.com/sagesteppe/DataVizGallery) *Blah! Thrown together over the weekend of Jan 20 2025! A work in progress - check back often ;-)!* 
 
 ## Assess, Inventory, and Monitor report
-The Bureau of Land Management provides stewardship for the most public lands in the United States of any agency, roughly 1 in 8 acres of the US are managed by them. In the early 2010's they launched an initiative across all of this land to assess the current ecological integrity, and inventory the plant life - which provides a baseline for future monitoring efforts. Although several field offices have finished their first five-year sample design, few have written reports on their findings, and none as comphrehensively as we did at the UFO ;-) (Uncompahgre Field Office). This 93 page report details our findings in the context of the multiple use mandate, a management paradigm under which all public land uses must be catered to.  
+The Bureau of Land Management provides stewardship for the most public lands in the United States of any agency; roughly 1 in 8 acres of the US are managed by them. In the early 2010's they launched an initiative across all of this land to assess the current ecological integrity and inventory the plant life, which provides a baseline for future monitoring efforts. Although several field offices have finished their first five-year sample design, few have written reports on their findings, and none as comprehensively as we did at the UFO ;-) (Uncompahgre Field Office). This 93-page report details our findings in the context of the multiple-use mandate, a management paradigm under which all public land uses must be catered to.  
 [Assessment of Current Upland Vegetation Conditions in the Uncompahgre Field Office, Gunnison Gorge, and Dominguez-Escalante National Conservation Areas](https://www.britishecologicalsociety.org/applied-ecology-resources/document/20240022706/)  & [Umbrella Repo!](https://github.com/sagesteppe/UFO_AIM_Panel1_Final_Report)
 
 ## Some Talks
@@ -31,12 +29,12 @@ And that's what we have three examples of here.
 
 ## Some Lectures  
 
-### University Level (Upper Divison/Graduate)
-I love teaching! As a graduate student I had the privilege of being a teaching assistant for Northwestern University's "R for Data Science" course for two quarters. 
+### University Level (Upper Division/Graduate)
+I love teaching! As a graduate student, I had the privilege of being a teaching assistant for Northwestern University's "R for Data Science" course for two quarters. 
 This course was based on Hadley's excellent book of the same name and was hosted by the Programs in Earth and Planetary Science, Environmental Science, and Plant Biology & Conservation. 
-In my second year I taught a full week of the course focused on Spatial Data Science ;-)! 
-I was also invited to do a guest lecture for the Plant Biolgy & Conservations course "Anaytical Toolbox for Ecologists and Evolutionary Biologists" on SDS as well. 
-Both of these courses were graduate/upper division level courses.
+In my second year, I taught a full week of the course focused on Spatial Data Science ;-)! 
+I was also invited to do a guest lecture for the Plant Biology & Conservation course "Analytical Toolbox for Ecologists and Evolutionary Biologists" on SDS as well. 
+Both of these courses were graduate/upper-division level courses.
 
 [Spatial Data Science in R](https://github.com/sagesteppe/Spatial_Data_Science_R)   
   - [Day I](https://sagesteppe.github.io/SpatialDataScienceI/)
@@ -46,7 +44,7 @@ Both of these courses were graduate/upper division level courses.
 [Species Distribution Models; an Introduction](https://sagesteppe.github.io/Analytical_Toolkit_SDM/) & [repo](https://github.com/sagesteppe/Analytical_Toolkit_SDM)  
 
 ### Professional  
-My professional teaching style can be described as a "firehose of flowers", i.e. a ton of *exposure* to complex information required to make quick decisions with. It is targeted for recent B.S., M.S. and Ph.D graduates, essentially people with a good head on their shoulders, but who have likely not been exposed to much pragmatic decision making and troubleshooting. Essentially I try to provide them with a framework for categorizing their observations, and hopefully get them excited enough about the topics they take on the responsibility to further educate themselves, and a roadmap for doing so.  
+My professional teaching style can be described as a "firehose of flowers", i.e. a ton of *exposure* to complex information required to make quick decisions with. It is targeted for recent B.S., M.S. and Ph.D graduates, essentially people with a good head on their shoulders, but who have likely not been exposed to much pragmatic decision making and troubleshooting. Essentially, I try to provide them with a framework for categorizing their observations, and hopefully get them excited enough about the topics they take on the responsibility to further educate themselves, and a roadmap for doing so.  
 [A very quick introduction to vegetation assessments](https://sagesteppe.github.io/CLM_2024_Veg_Ecology/) &  [repo](https://github.com/sagesteppe/CLM_2024_Veg_Ecology)  
 [Geology, Geomorphology, and Soils, for early career botanists](https://sagesteppe.github.io/Geomorphology-Lecture/)  & [repo](https://github.com/sagesteppe/Geomorphology-Lecture)  
 [What's a Model and How do we Plan Hitches?](https://sagesteppe.github.io/Whats-a-model-and-how-do-we-plan-hitches/) & [repo](https://github.com/sagesteppe/Whats-a-model-and-how-do-we-plan-hitches)  
@@ -57,7 +55,7 @@ This is a click along/set up tutorial for previous fieldworker crews I've had. I
 [Using QGIS](https://github.com/sagesteppe/QGIS_Lesson) 
 
 ## Some Species Distribution Modelling things
-The first repo is a bit of a mess, well the write up is. 
+The first repo is a bit of a mess, well, the write up is. 
 I've been hoping to formulate that for submission to a journal, but it's hard to reach that far back on the stove. 
 Second repo was me learning to code, blah!, but the actual work is fantastic. 
 Third repo is straight fire, ignore the readme and jump to the functions.  
