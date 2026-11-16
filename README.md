@@ -1,12 +1,12 @@
 ## Some R Packages I've developed
 Most of my package development work relates to natural history museum collections, and germplasm repository work - especially seed banking. 
 Essentially, I am always interested in decreasing the human workload while increasing the scientific merit of collections. 
-All of this work relates heavily around spatial data science workflows. 
+All of this work relates to spatial data science workflows. 
 
 [BarnebyLives](https://sagesteppe.github.io/BarnebyLives/) & [Repo](https://github.com/sagesteppe/BarnebyLives) *Tools for collecting digital data for herbarium specimens.*  
 [safeHavens](https://sagesteppe.github.io/safeHavens/) & [Repo](https://github.com/sagesteppe/safeHavens) *Tools to help germplasm curators prioritize areas for new accessions.*  
 [eSTZwritR](https://sagesteppe.github.io/eSTZwritR/) & [Repo](https://github.com/sagesteppe/eSTZwritR) *('Easy Rider') For sharing empirical Seed Transfer Zones (STZs) spatial data products.*   
-[flyer](https://sagesteppe.github.io/flyer/) & [Repo](https://github.com/sagesteppe/flyer) *Data package for cartography exercises. From Ricketts and Steinbeck's 1940 trip to the Sea of Cortez*. R+Python 
+[flyer](https://sagesteppe.github.io/flyer/) & [Repo](https://github.com/sagesteppe/flyer) *Data package for cartography exercises. From Ricketts and Steinbeck's 1940 trip to the Sea of Cortez*.  
 [lsed](https://github.com/sagesteppe/lsed) (R) and [lsed](https://github.com/sagesteppe/lsed-py) (python port) *Decision curve analyses extensions for landscape ecologists*  
 [AugspurgerIndex](https://github.com/sagesteppe/AugspurgerIndex) *Calculate Augspurgers Index of Synchrony*   
 [getGridmet](https://github.com/sagesteppe/getGridmet) *Download gridmet data to a computer near you*  
